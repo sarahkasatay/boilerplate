@@ -1,0 +1,81 @@
+/* resetting css */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/* stting standard styles for elements */
+html {
+    font-size: 16px;
+}
+h1 {
+    font-size: 2rem;
+    font-family: '';
+    font-weight: bolder;
+    font-style: normal;
+    letter-spacing: x/*replace x with a value*/;
+    line-height: x/*replace x with a value*/;
+}
+h2 {
+    font-size: 1.75rem;
+    font-family: '';
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: x/*replace x with a value*/;
+    line-height: x/*replace x with a value*/;
+}
+h3 {
+    font-size: 1.5rem;
+    font-family: '';
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: x/*replace x with a value*/;
+    line-height: x/*replace x with a value*/;
+}
+h4 {
+    font-size: 1.2rem;
+    font-family: '';
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: x/*replace x with a value*/;
+    line-height: x/*replace x with a value*/;
+}
+p {
+    font-size: 1rem;
+    font-family: '';
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: x/*replace x with a value*/;
+    line-height: x/*replace x with a value*/;
+}
+ul {
+    font-size: 1rem;
+    font-family: '';
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: x/*replace x with a value*/;
+    line-height: x/*replace x with a value*/;
+}
+a {
+    font-size: 1rem;
+    font-family: '';
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: x/*replace x with a value*/;
+    line-height: x/*replace x with a value*/;
+}
+a:hover,
+button:hover {
+   cursor: pointer;
+}
+a:focus,
+button:focus,
+input:focus {
+    outline: 0;
+    box-shadow: none;
+}
+input:focus::placeholder {
+ color: transparent;
+}
+textarea:focus::placeholder {
+ color: transparent;
+}
