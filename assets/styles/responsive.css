@@ -17,11 +17,11 @@
 }
 
 @media (max-width: 768px) {
-    /* queries for sm-devices 576px < device < 768px (col-sm)*/
+    /* queries for sm-devices 576px < device < 768px (col-sm)**/
     /*examples of devices that fall into this category : BlackBerry Playbook / Microsoft Lumia 550 / Nexus 7 /*/
 }
 
 @media (max-width: 576px) {
-    /* queries for extra-small-devices  <576px (col-)*/
+    /* queries for extra-small-devices  <576px (col-)**/
     /*examples of devices that fall into this category : Galaxy S5 / iphones: X/6/7/8/6,7,8 plus / pixel 2XL / Pixel2 / Nokia N9/ galaxy s5/s3*/
 }
